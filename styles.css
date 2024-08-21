@@ -57,7 +57,7 @@ body{
 }
 
 
-img{
+.img-1{
     width:80%;
     height:auto;
 }
@@ -66,4 +66,40 @@ button
 {
     background-color:#3882F6;
     color:white;
+}
+
+.p2-info
+{
+    display:flex;
+    font-size:36px;
+    font-weight:bolder;
+    color:#1F2937;
+    justify-content:center;
+}
+
+.imgandtext
+{
+    display:flex;
+    padding-left:150px;
+    padding-right:150px;
+    justify-content:center;
+}
+
+.i-inf
+{
+    width:150px;
+    margin:30px;
+}
+
+.i-text
+{
+    font-size:18px;
+    color:black;
+    text-align:center;
+}
+
+.img-2{
+    width:150px;
+    height:150px;
+    border-radius:15px;
 }
