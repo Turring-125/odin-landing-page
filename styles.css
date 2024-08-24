@@ -134,3 +134,48 @@ button
     font-size:24px;
     justify-content:end;
 }
+
+.signup
+{
+    display:flex;
+    background-color: #3882F6;
+    margin:400px;
+    margin-top:100px;
+    margin-bottom:100px;
+    padding:50px;
+    border-radius:15px;
+    justify-content: space-evenly;
+}
+
+.signup-text
+{
+    color:#F9FAF8;
+    font-size:24px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.signup-text .main
+{
+    font-weight:900;
+}
+
+.signup-text .sec{
+    font-size:20px;
+    font-weight:lighter;
+}
+
+.signup-button button
+{
+    height:32px;
+    width:100px;
+    border-radius: 8px;
+    border-color:white;
+}
+
+.signup-button
+{
+    display:flex;
+    align-items:center;
+}
