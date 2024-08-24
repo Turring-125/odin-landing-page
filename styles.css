@@ -68,6 +68,11 @@ button
     color:white;
 }
 
+.p2
+{
+    padding:60px;
+}
+
 .p2-info
 {
     display:flex;
@@ -102,4 +107,30 @@ button
     width:150px;
     height:150px;
     border-radius:15px;
+}
+
+.p3
+{
+    background-color:#E5E7EB;
+}
+
+.quote
+{
+    padding: 100px;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+.quote-text
+{
+    font-size:36px;
+    font-style:italic;
+    font-weight:lighter;
+}
+
+.quote-author
+{
+    display:flex;
+    font-size:24px;
+    justify-content:end;
 }
