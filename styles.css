@@ -179,3 +179,17 @@ button
     display:flex;
     align-items:center;
 }
+
+.p5
+{
+    background-color: #1F2937;
+}
+
+.footer .txt
+{
+    font-size:18px;
+    color:white;
+    padding:35px;
+    display:flex;
+    justify-content: center;
+}
